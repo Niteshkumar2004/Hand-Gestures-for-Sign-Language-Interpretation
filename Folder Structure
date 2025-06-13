@@ -1,0 +1,14 @@
+hand_gesture_project/
+├── app.py
+├── templates/
+│   └── index.html
+├── static/
+│   └── style.css
+├── model/
+│   └── gesture_model.h5  (Trained model)
+├── utils/
+│   └── data_preprocess.py (optional)
+├── gestures/
+│   └── [a, b, c, ..., y, z]/ (hand gesture images for training)
+├── requirements.txt
+└── README.md
